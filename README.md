@@ -2,8 +2,8 @@
 ## Source: [Django Rest Framework official tutorial](https://www.django-rest-framework.org/tutorial/quickstart/)
 
 ## Tutorials:
-0. [Quickstart](https://www.django-rest-framework.org/tutorial/quickstart/) (this commit)
-1. [Serialization](https://www.django-rest-framework.org/tutorial/1-serialization/)
+0. [Quickstart](https://www.django-rest-framework.org/tutorial/quickstart/)
+1. [Serialization](https://www.django-rest-framework.org/tutorial/1-serialization/) (this commit)
 2. [Requests and responses](https://www.django-rest-framework.org/tutorial/2-requests-and-responses/)
 3. [Class based views](https://www.django-rest-framework.org/tutorial/3-class-based-views/)
 4. [Authentication and permissions](https://www.django-rest-framework.org/tutorial/4-authentication-and-permissions/)

@@ -10,6 +10,7 @@ python = "^3.8"
 python-dotenv = "^0.20.0"
 Django = "^4.0.4"
 djangorestframework = "^3.13.1"
+Pygments = "^2.11.2"
 
 [tool.poetry.dev-dependencies]
 
